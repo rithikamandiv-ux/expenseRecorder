@@ -45,7 +45,7 @@ This project was built as a learning exercise to understand backend development,
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/expense-recorder.git
+git clone https://github.com/rithikamandiv-ux/expense-recorder.git
 ```
 
 ### 2. Navigate to the project folder
